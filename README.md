@@ -1,2 +1,2 @@
 # FSOS
-Fourier SOS
+Fast-SOS
