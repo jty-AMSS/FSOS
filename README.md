@@ -1,2 +1,2 @@
 # FSOS
-Fast-SOS
+Fast-FSOS
